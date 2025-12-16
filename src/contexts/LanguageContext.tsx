@@ -240,7 +240,7 @@ export const LanguageProvider = ({ children }: LanguageProviderProps) => {
         phone: '+48733774660',
         location: language === 'pl' ? 'Lublin, Polska' : 'Lublin, Poland',
         linkedin: 'https://www.linkedin.com/in/vadym-yarmoshuk-9b4364305',
-        github: undefined,
+        github: 'https://github.com/VadymYarmoshuk',
         website: undefined,
       },
     };
