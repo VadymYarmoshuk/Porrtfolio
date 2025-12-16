@@ -346,6 +346,7 @@ export const LanguageProvider = ({ children }: LanguageProviderProps) => {
           title: t('project.4.title'),
           description: t('project.4.desc'),
           technologies: ['React', 'TypeScript', 'Material UI', 'Vite'],
+          githubUrl: 'https://github.com/VadymYarmoshuk/Porrtfolio',
         },
       ],
       education: [
